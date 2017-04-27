@@ -1,0 +1,3 @@
+D:/CLionProjects/BookLib/cmake-build-debug/CMakeFiles/BookLib.dir
+D:/CLionProjects/BookLib/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/BookLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
